@@ -1,0 +1,33 @@
+Image 1
+This image shows the structure of the main form class and the first button click event:
+
+public partial class Form1 : Form: Defines the Form1 class, which manages the main user interface window.   
+
+
+public Form1() & InitializeComponent(): The constructor method that initializes and sets up all UI components (like buttons and controls) when the form loads.   
+
+
+private void messageButton_Click(...): An event handler that triggers when a button named messageButton is clicked. It displays a pop-up dialog box showing the text: "Hello World".   
+
+
+Image 2
+This image shows the click event for the second button:
+
+private void button2_Click(...): Triggers when button2 is clicked. It displays a pop-up message box with the text: "thanks for the clicking the button".   
+
+
+Image 3
+This image shows the namespace declaration and the event for the first button:
+
+namespace WindowsFormsApp2: The container/workspace name for your project.   
+
+
+private void button1_Click(...): Triggers when button1 is clicked. It sets the button's visibility to hidden (button1.Visible = false;) and then immediately sets it back to visible (button1.Visible = true;).   
+
+
+(Note: Because computers execute these two lines sequentially in milliseconds without a delay, the button will appear to stay visible).
+
+Image 4
+This image shows the click event for the third button:
+
+private void button3_Click(...): Triggers when button3 is clicked. The command this.Close(); closes the application form/window
