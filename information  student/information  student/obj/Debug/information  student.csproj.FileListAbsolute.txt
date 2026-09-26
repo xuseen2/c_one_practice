@@ -1,0 +1,10 @@
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\bin\Debug\information  student.exe.config
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\bin\Debug\information  student.exe
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\bin\Debug\information  student.pdb
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\obj\Debug\information  student.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\obj\Debug\information__student.Form1.resources
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\obj\Debug\information__student.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\obj\Debug\information  student.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\obj\Debug\information  student.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\obj\Debug\information  student.exe
+C:\Users\hp\OneDrive\Desktop\information  student\information  student\obj\Debug\information  student.pdb
