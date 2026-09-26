@@ -1,0 +1,44 @@
+## topics
+ Reading Input with TextBox Controls
+3.2 A First Look at Variables
+3.3 Numeric Data Type and Variables
+3.4 Performing Calculations
+3.5 Inputting and Outputting Numeric Values
+3.6 Formatting Numbers with the ToString Method
+3.7 Simple Exception Handling
+3.8 Using Named Constants
+## Variable Names
+A variable name identifies a variable
+Always choose a meaningful name for variables
+Basic naming conventions are:
+the first character must be a letter (upper or lowercase) or an underscore (_)
+the name cannot contain spaces
+## String Variables
+A string is a combination of characters 
+A variable of the string data type can hold any combination of characters, such as names, phone numbers, and social security numbers
+The value of a string variable is assigned on the right of the = operator 
+## Local Variables and Scope
+A local variable belongs to the method in which it was declared
+Only statements inside that method can access the variable
+Scope describes the part of a program in which a variable may be accessed
+Lifetime of a variable is the time period during which the variable exists in memory while the program is executing
+A local variable is created in memory when the method in which it is declared starts executing. When the method ends, all the method’s local variables are destroyed.
+## Declaring Local Variables with the var Keyword
+var is a keyword you can use instead of writing the full type of a variable.
+The compiler automatically figures out the type from the value you assign (this is called type inference).
+You can use the var keyword to declare and initialize a local variable
+##  Inputting and Outputting Numeric Values
+Input collected from the keyboard are considered combinations of characters (or string literals) even if they look like a number to you
+A TextBox control reads keyboard input, such as 25.65. However, the TextBox treats it as a string, not a number.
+If the user has entered a numeric value into a TextBox control and you want to assign that value to a numeric variable, you have to convert the control’s Text property to the desired numeric data type. Unfortunately, you cannot use a cast operator to convert a string to a numeric type. 
+
+## Simple Exception Handling
+
+An exception is an unexpected error that happens while a program is running ,Exceptions = runtime errors. Example errors:
+Dividing by zero
+Trying to open a file that does not exist
+Invalid user input
+If an exception is not handled by the program, the program will abruptly halt
+What is exception handling? Exception handling is writing special code that catches errors and tells the program what to do instead of crashing.
+This code is called an exception handler.
+This allows you to write code that responds to exceptions. Such code is known as an exception handler.
