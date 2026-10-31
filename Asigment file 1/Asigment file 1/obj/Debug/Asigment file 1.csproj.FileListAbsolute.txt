@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\bin\Debug\Asigment file 1.exe.config
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\bin\Debug\Asigment file 1.exe
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\bin\Debug\Asigment file 1.pdb
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\obj\Debug\Asigment file 1.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\obj\Debug\Asigment_file_1.Form1.resources
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\obj\Debug\Asigment_file_1.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\obj\Debug\Asigment file 1.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\obj\Debug\Asigment file 1.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\obj\Debug\Asigment file 1.exe
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\obj\Debug\Asigment file 1.pdb
+C:\Users\hp\OneDrive\Desktop\fat color\Asigment file 1\Asigment file 1\obj\Debug\Asigment file 1.exe.config
